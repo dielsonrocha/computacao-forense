@@ -175,7 +175,8 @@ REGIÃO SUDESTE
 
 	     * [José Antônio Pena Numez (Windows, ERP, e Banco de Dados) ](http://peritodeinformatica.inf.br/)		 
 
-	     * [Ricardo Andrian Capozzi (Fraude e Crimes Cibernéticos, Desgravação de Áudios, Análise de Imagens, Registro de Ponto Eletrônico ) ](https://www.linkedin.com/in/ricardo-capozzi-b34215/)		 
+	     * [Ricardo Andrian Capozzi (Fraude e Crimes Cibernéticos, Desgravação de Áudios, Análise de Imagens, Registro de Ponto Eletrônico ) ](https://www.linkedin.com/in/ricardo-capozzi-b34215/)
+             * [Dielson Santos Rocha Computação Forense e Pericia Digital]_(dielsonrocha@outlook.com)
 		 		 
 
 
